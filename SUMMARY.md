@@ -14,3 +14,7 @@
   * [NSDomainService - 域名相关服务 service\_ns\_domain.proto](api-lie-biao/nsdomainservice-yu-ming-xiang-guan-fu-wu-servicensdomain.proto-1.md)
   * [NSDomainGroupService - 域名分组服务 service\_ns\_domain\_group.proto](api-lie-biao/nsdomaingroupservice-yu-ming-fen-zu-fu-wu-servicensdomaingroup.proto.md)
   * [OriginService - 源站管理服务 service\_origin.proto](api-lie-biao/originservice-yuan-zhan-guan-li-fu-wu-serviceorigin.proto.md)
+  * [ServerBandwidthStatService - 服务带宽统计服务 service\_server\_bandwidth\_stat.proto](api-lie-biao/serverbandwidthstatservice-fu-wu-dai-kuan-tong-ji-fu-wu-serviceserverbandwidthstat.proto.md)
+  * [findTopServerClientBrowserMonthlyStats - 查找前N个浏览器](api-lie-biao/findtopserverclientbrowsermonthlystats-cha-zhao-qiannge-liu-lan-qi.md)
+  * [ServerStatBoardService - 统计看板 service\_server\_stat\_board.proto](api-lie-biao/serverstatboardservice-tong-ji-kan-ban-serviceserverstatboard.proto.md)
+  * [NSService - 域名服务 service\_ns.proto](api-lie-biao/nsservice-yu-ming-fu-wu-servicens.proto.md)
