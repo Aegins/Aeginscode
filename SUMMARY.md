@@ -13,3 +13,4 @@
   * [NSDomainService - 域名相关服务 service\_ns\_domain.proto](api-lie-biao/nsdomainservice-yu-ming-xiang-guan-fu-wu-servicensdomain.proto.md)
   * [NSDomainService - 域名相关服务 service\_ns\_domain.proto](api-lie-biao/nsdomainservice-yu-ming-xiang-guan-fu-wu-servicensdomain.proto-1.md)
   * [NSDomainGroupService - 域名分组服务 service\_ns\_domain\_group.proto](api-lie-biao/nsdomaingroupservice-yu-ming-fen-zu-fu-wu-servicensdomaingroup.proto.md)
+  * [OriginService - 源站管理服务 service\_origin.proto](api-lie-biao/originservice-yuan-zhan-guan-li-fu-wu-serviceorigin.proto.md)
