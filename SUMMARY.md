@@ -1,7 +1,6 @@
 # Table of contents
 
-* [api文档](README.md)
-* [API调用](api-tiao-yong.md)
+* [API调用](README.md)
 * [认证](ren-zheng.md)
 * [API列表](api-lie-biao/README.md)
   * [APIAccessTokenService - AccessToken相关服务 service\_api\_access\_token.proto](api-lie-biao/apiaccesstokenservice-accesstoken-xiang-guan-fu-wu-serviceapiaccesstoken.proto.md)
@@ -19,3 +18,4 @@
   * [ServerStatBoardService - 统计看板 service\_server\_stat\_board.proto](api-lie-biao/serverstatboardservice-tong-ji-kan-ban-serviceserverstatboard.proto.md)
   * [NSService - 域名服务 service\_ns.proto](api-lie-biao/nsservice-yu-ming-fu-wu-servicens.proto.md)
   * [NSAccessLogService - 访问日志相关服务 service\_ns\_access\_log.proto](api-lie-biao/nsaccesslogservice-fang-wen-ri-zhi-xiang-guan-fu-wu-servicensaccesslog.proto.md)
+  * [UserPlanService - 用户购买的套餐管理服务 service\_user\_plan.proto](api-lie-biao/userplanservice-yong-hu-gou-mai-de-tao-can-guan-li-fu-wu-serviceuserplan.proto.md)
