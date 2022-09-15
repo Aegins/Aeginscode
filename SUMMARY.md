@@ -19,3 +19,5 @@
   * [NSService - 域名服务 service\_ns.proto](api-lie-biao/nsservice-yu-ming-fu-wu-servicens.proto.md)
   * [NSAccessLogService - 访问日志相关服务 service\_ns\_access\_log.proto](api-lie-biao/nsaccesslogservice-fang-wen-ri-zhi-xiang-guan-fu-wu-servicensaccesslog.proto.md)
   * [UserPlanService - 用户购买的套餐管理服务 service\_user\_plan.proto](api-lie-biao/userplanservice-yong-hu-gou-mai-de-tao-can-guan-li-fu-wu-serviceuserplan.proto.md)
+  * [FileService - 文件相关服务 service\_file.proto](api-lie-biao/fileservice-wen-jian-xiang-guan-fu-wu-servicefile.proto.md)
+  * [HTTPHeaderService - HTTP Header管理服务 service\_http\_header.proto](api-lie-biao/httpheaderservice-http-header-guan-li-fu-wu-servicehttpheader.proto.md)
