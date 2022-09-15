@@ -21,3 +21,5 @@
   * [UserPlanService - 用户购买的套餐管理服务 service\_user\_plan.proto](api-lie-biao/userplanservice-yong-hu-gou-mai-de-tao-can-guan-li-fu-wu-serviceuserplan.proto.md)
   * [FileService - 文件相关服务 service\_file.proto](api-lie-biao/fileservice-wen-jian-xiang-guan-fu-wu-servicefile.proto.md)
   * [HTTPHeaderService - HTTP Header管理服务 service\_http\_header.proto](api-lie-biao/httpheaderservice-http-header-guan-li-fu-wu-servicehttpheader.proto.md)
+  * [HTTPHeaderPolicyService - HTTP Header策略服务 service\_http\_header\_policy.proto](api-lie-biao/httpheaderpolicyservice-http-header-ce-lve-fu-wu-servicehttpheaderpolicy.proto.md)
+  * [HTTPFirewallPolicyService - HTTP防火墙（WAF）服务 service\_http\_firewall\_policy.proto](api-lie-biao/httpfirewallpolicyservice-http-fang-huo-qiang-waf-fu-wu-servicehttpfirewallpolicy.proto.md)
